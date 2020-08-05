@@ -1,7 +1,7 @@
 ### Hi there, I'm Chandrahas - aka [Idealistic Realist][website] - aka [Cosmic Soul Forge][twitter] on twitter
 
-## Now working at Microsoft
-- Currently interested in:
+### Now working at Microsoft
+Currently interested in:
     - High Performance Computing & Machine Learning
     - Android
     - Linux Kernel
