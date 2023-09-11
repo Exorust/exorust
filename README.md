@@ -1,10 +1,7 @@
-### Hi there, I'm Chandrahas - aka [Idealistic Realist][website] - aka [Cosmic Soul Forge][twitter] on twitter
+### Hi there, I'm Chandrahas - aka [Idealistic Realist][website] - aka [Charoori-ai](https://twitter.com/charoori_ai)] on twitter
 
-### Now working at Microsoft
-Currently interested in:
-    - High Performance Computing & Machine Learning
-    - Android
-    - Linux Kernel
+### Now studying at Boston University after working at Microsoft & Nvidia
+Currently invested in AI!
 
 ### Connect with me:
 
@@ -17,5 +14,5 @@ I try to regularly update my blog and I add inspirational tweets almost every da
 
 
 [website]: https://exorust.github.io/
-[twitter]: https://twitter.com/cosmicsoulforge
+[twitter]: https://twitter.com/charoori_ai
 [linkedin]: https://www.linkedin.com/in/chandrahas-aroori/
